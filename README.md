@@ -18,8 +18,5 @@ Theme for Wordpress
 
 ![theme-2][def2]
 
-![theme-3][def3]
-
 [def]: /twoCandles/theme-1.png
-[def2]: /twoCandles/theme-2.png
-[def3]: /twoCandles/theme-3.png
+[def2]: /twoCandles/theme-3.png
