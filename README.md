@@ -16,5 +16,10 @@ Theme for Wordpress
 - License URI :       https://www.gnu.org/licenses/gpl-2.0.html
 - Tags :              one-column, custom-colors, custom-menu, custom-logo, editor-style, featured-images, full-site-editing, block-patterns, rtl-language-support, sticky-post, threaded-comments, translation-ready, wide-blocks, block-styles, style-variations, accessibility-ready, blog, portfolio, news
 
+![theme-2][def2]
+
+![theme-3][def3]
 
 [def]: /twoCandles/theme-1.png
+[def2]: /twoCandles/theme-2.png
+[def3]: /twoCandles/theme-3.png
