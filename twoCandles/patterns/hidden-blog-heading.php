@@ -3,7 +3,7 @@
  * Title: Hidden blog heading
  * Slug: twoCandles/hidden-blog-heading
  * Description: Hidden heading for the home page and index template.
- * Inserter: no
+ * Inserter: yes
  *
  * @package WordPress
  * @subpackage 2Candles

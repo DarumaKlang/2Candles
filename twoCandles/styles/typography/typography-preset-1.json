@@ -155,52 +155,6 @@
 							"fontFamily": "Literata"
 						}
 					]
-				},
-				{					
-					"name": "Charm",
-					"slug": "Charm",
-					"fontFamily": "Charm, serif",
-					"fontFace": [
-						{
-							"src": [
-								"file:./assets/fonts/Charm/Charm-Regular.ttf"
-							],
-							"fontWeight": "200",
-							"fontStyle": "Regular",
-							"fontFamily": "Charm"
-						},
-						{
-							"src": [
-								"file:./assets/fonts/Charm/Charm-Bold.ttf"
-							],
-							"fontWeight": "200",
-							"fontStyle": "Bold",
-							"fontFamily": "Charm"
-						}
-					]
-				},
-				{					
-					"name": "Charmonman",
-					"slug": "Charmonman",
-					"fontFamily": "Charmonman, serif",
-					"fontFace": [
-						{
-							"src": [
-								"file:./assets/fonts/Charm/Charmonman-Regular.ttf"
-							],
-							"fontWeight": "200",
-							"fontStyle": "Regular",
-							"fontFamily": "Charmonman"
-						},
-						{
-							"src": [
-								"file:./assets/fonts/Charm/Charmonman-Bold.ttf"
-							],
-							"fontWeight": "200",
-							"fontStyle": "Bold",
-							"fontFamily": "Charmonman"
-						}
-					]
 				}
 			],
 			"fontSizes": [
@@ -251,7 +205,7 @@
 	},
 	"styles": {
 		"typography": {
-			"fontFamily": "var:preset|font-family|Charmonman",
+			"fontFamily": "var:preset|font-family|literata",
 			"fontSize": "var:preset|font-size|medium",
 			"letterSpacing": "-0.01em",
 			"lineHeight": "1.6"
@@ -259,7 +213,7 @@
 		"blocks": {
 			"core/button": {
 				"typography": {
-					"fontFamily": "var:preset|font-family|Charm"
+					"fontFamily": "var:preset|font-family|beiruti"
 				}
 			},
 			"core/list": {
@@ -279,7 +233,7 @@
 			},
 			"core/pullquote": {
 				"typography": {
-					"fontFamily": "var:preset|font-family|Charm",
+					"fontFamily": "var:preset|font-family|beiruti",
 					"fontWeight": "500",
 					"lineHeight": "1"
 				}
@@ -301,7 +255,7 @@
 			},
 			"core/site-title": {
 				"typography": {
-					"fontFamily": "var:preset|font-family|Charm",
+					"fontFamily": "var:preset|font-family|beiruti",
 					"fontWeight": "600",
 					"letterSpacing": "2.4px",
 					"textTransform": "uppercase"
@@ -327,7 +281,7 @@
 			},
 			"heading": {
 				"typography": {
-					"fontFamily": "var:preset|font-family|Charm",
+					"fontFamily": "var:preset|font-family|beiruti",
 					"fontWeight": "500",
 					"letterSpacing": "-0.02em",
 					"lineHeight": "1.02"
